@@ -44,7 +44,7 @@ def user_panel(link):
 	kb = InlineKeyboardMarkup()
 	
 	next_btn = InlineKeyboardButton("⏭️ KEYINGISI", callback_data="next")
-	news_btn = InlineKeyboardButton("📻 BOT NEWS", url="https://t.me/jahongi_studi010")
+	news_btn = InlineKeyboardButton("📻 BOT NEWS", url="https://t.me/themegram_official")
 	inst_btn = InlineKeyboardButton("OʻRNATISH📲", url=f"{link}")
 	
 	kb.add(inst_btn)
