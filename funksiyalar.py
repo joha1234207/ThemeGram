@@ -178,5 +178,5 @@ QILING
 📸 YAQINDA: 1 TA RASMDAN THEME YARATISH FUNKSIYASI!
 
 👇 HOZIRDO‘Q DO‘STLARINGIZGA YUBORING
-<a href="https://t.me/temelar_bot">CLICK</a>
+<a href="https://t.me/theme_gram_bot">CLICK</a>
         	</b>""", parse_mode="HTML")
